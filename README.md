@@ -23,7 +23,7 @@ year={2020}}
 ## List of Papers with Categorization
 
 <p align="center">
-<img src="files/images/high-level-view.png " width="650">
+<img src="files/images/high-level-view.png " width="800">
 </p>
 
 Papers are sorted chronologically according to five categories so that you can find related papers more quickly. 
