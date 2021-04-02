@@ -14,12 +14,6 @@ journal={arXiv preprint arXiv:2007.08199},
 year={2020}}
 ```
 
-## List to Do
-- Update list of papers for noisy labels.
-- Upload summary of table
-- Code summary
-- ...
-
 ## Datasets
 
 ## List of Papers with Categorization
@@ -52,15 +46,31 @@ Robust Learning for Noisy Labels
      |--- E.2. Multi-round Learning: refining the selected clean set through training multiple rounds.
      |--- E.3. Hybrid Leanring: combining a specific sample selection strategy with a specific semi-supervised learning model or other orthogonal directions.
 ```
-- Robust Architecture
--- (1) Noise Adaptation Layer: adding a noise adaptation layer at the top of an underlying DNN to learn label transition process
--- (2) Dedicated Architecture: developing a dedicated architecture to reliably support more diverse types of label noises.
-- Robust Regularization
--
+
+### A. Robust Architecture
+#### A.1. Noise Adaptation Layer
+#### A.2. Dedicated Architecture
+
+### B. Robust Regularization
+#### B.1. Explicit Regularization
+#### B.2. Implicit Regularization
+
+### C. Robust Loss Function
+
+### D. Loss Adjustment
+#### D.1. Loss Correction
+#### D.2. Loss Reweighting
+#### D.3. Label Refurbishment
+#### D.4. Meta Learning
+
+### E. Sample Selection
+#### E.1. Multi-network Learning
+#### E.2. Multi-round Learning
+#### E.3. Hybrid Learning
 
 
-$ which also provides this in table format along with "methodological comparison")
-
-please refer to our survey paper for the details - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/Survey%20on%20Noisy%20Labels.pdf)
-
-### List of Papers with Categorization
+## List to Do
+- Update list of papers for noisy labels.
+- Upload summary of table
+- Code summary
+- ...
