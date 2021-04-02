@@ -1,2 +1,2 @@
-# Learning-from-Noisy-Labels
+# Awesome-Noisy-Labels
 TBD
