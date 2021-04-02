@@ -104,7 +104,7 @@ Robust Learning for Noisy Labels
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
 | 2017   | AAAI    | [Robust loss functions under label noise for deep neural networks](https://arxiv.org/pdf/1712.09482.pdf)    |   N/A   |
-| 2017   | ICCV    | [Symmetric cross entropy for robust learning with noisy labels](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Symmetric_Cross_Entropy_for_Robust_Learning_With_Noisy_Labels_ICCV_2019_paper.pdf)     |  [Official (Keras)]({https://github.com/YisenWang/symmetric\_cross\_entropy\_for\_noisy_label)    |
+| 2017   | ICCV    | [Symmetric cross entropy for robust learning with noisy labels](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Symmetric_Cross_Entropy_for_Robust_Learning_With_Noisy_Labels_ICCV_2019_paper.pdf)     |  [Official (Keras)](https://github.com/YisenWang/symmetric\_cross\_entropy\_for\_noisy_label)    |
 | 2018   | NeurIPS | [Generalized cross entropy loss for training deep neural networks with noisy labels](https://papers.nips.cc/paper/2018/hash/f2925f97bc13ad2852a7a551802feea0-Abstract.html)    |  [Unofficial (PyTorch)](https://github.com/AlanChou/Truncated-Loss)    |
 | 2020   | ICLR    | [Curriculum loss: Robust learning and generalization against label corruption](https://openreview.net/forum?id=rkgt0REKwS)     |  N/A   |
 | 2020   | ICML    | [Normalized loss functions for deep learning with noisy labels](http://proceedings.mlr.press/v119/ma20c.html)     |  [Official (PyTorch)](https://github.com/HanxunH/Active-Passive-Losses)    |
@@ -137,7 +137,7 @@ Robust Learning for Noisy Labels
 | 2018   | ICML    | [Dimensionality-driven learning with noisy labels](http://proceedings.mlr.press/v80/ma18d/ma18d.pdf)    |  [Official (Keras)](https://github.com/xingjunm/dimensionality-driven-learning)    |
 | 2019   | ICML    | [Unsupervised label noise modeling and loss correction](http://proceedings.mlr.press/v97/arazo19a/arazo19a.pdf)    |   [Official (PyTorch)](https://github.com/PaulAlbert31/LabelNoiseCorrection)   |
 | 2020   | NeurIPS | [Self-adaptive training: beyond empirical risk minimization](https://proceedings.neurips.cc/paper/2020/file/e0ab531ec312161511493b002f9be2ee-Paper.pdf)     |  [Official (PyTorch)](https://github.com/LayneH/self-adaptive-training)    |
-| 2020   | ICML    | [Error-bounded correction of noisy labels](http://proceedings.mlr.press/v119/zheng20c/zheng20c.pdf)    |  [Official (PyTorch)]({https://github.com/pingqingsheng/LRT)    |
+| 2020   | ICML    | [Error-bounded correction of noisy labels](http://proceedings.mlr.press/v119/zheng20c/zheng20c.pdf)    |  [Official (PyTorch)](https://github.com/pingqingsheng/LRT)    |
 | 2021   | AAAI    | [Beyond class-conditional assumption: A primary attempt to combat instancedependent label noise](https://arxiv.org/pdf/2012.05458.pdf)     | [Official (PyTorch)](https://github.com/chenpf1025/IDN)     |
 
 #### D.4. Meta Learning
