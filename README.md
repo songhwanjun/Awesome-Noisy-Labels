@@ -1,5 +1,5 @@
 # Learning from Noisy Labels with Deep Neural Networks: A Survey
-# __Citation (.bib)__ </br>
+## __Citation (.bib)__ </br>
 ```
 @article{song2020learning,
 title={Learning from noisy labels with deep neural networks: A survey},
