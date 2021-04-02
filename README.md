@@ -167,7 +167,7 @@ Robust Learning for Noisy Labels
 | 2019   | ICML    | Understanding and utilizing deep neural networks trained with noisy labels     |  [Official (Keras)](https://github.com/chenpf1025/noisy_label_understanding_utilizing)    |
 | 2019   | ICCV    | O2U-Net: A simple noisy label detection approach for deep neural networks     |  [Unofficial (PyTorch)](https://github.com/hjimce/O2U-Net)   |
 | 2018   | CVPR    | Iterative learning with open-set noisy labels     |  [Official (Keras)](https://github.com/YisenWang/Iterative_learning)    |
-| 2020   | ICMLW    | How does early stopping can help generalization against label noise?     |  [Official (Tensorflow)]()(https://www.dropbox.com/sh/49py7tggwprpdup/AADFFsAGfn3EbtueYM0dI9Fea?dl=0)     |
+| 2020   | ICMLW    | How does early stopping can help generalization against label noise?     |  [Official (Tensorflow)](https://www.dropbox.com/sh/49py7tggwprpdup/AADFFsAGfn3EbtueYM0dI9Fea?dl=0)     |
 | 2020   | NeurIPS  | A topological filter for learning with label noise     |  [Official (PyTorch)](https://github.com/pxiangwu/TopoFilter)    |
 
 
