@@ -5,7 +5,6 @@ If your papers are missing or you have other requests, please contact to ghkswns
 We will update this repository and paper on a regular basis to maintain up-to-date. 
 > **Last update date: 2021-04-02**
 
-
 ## __Citation (.bib)__ </br>
 ```
 @article{song2020learning,
@@ -56,36 +55,130 @@ Robust Learning for Noisy Labels
 
 <a name="A"></a>
 
-
 ### A. [Robust Architecture](#content)
 #### A.1. Noise Adaptation Layer
 
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
 | 2015   | ICCV    | [Webly supervised learning of convolutional networks](https://openaccess.thecvf.com/content_iccv_2015/papers/Chen_Webly_Supervised_Learning_ICCV_2015_paper.pdf) | [Official (Caffe)](https://github.com/endernewton/webly-supervised) |
+| 2015   | ICLRW   | Training convolutional networks with noisy labels | Unofficial (Keras) |
+| 2016   | ICDM    | Learning deep networks from noisy labels with dropout regularization | Unofficial (Keras) |
+| 2017   | ICLR    | Training deep neural-networks using a noise adaptation layer | Unofficial (Keras) |
+| 2016   | ICASSP  | Training deep neural-networks based on unreliable labels | Unofficial (Keras) |
 
 #### A.2. Dedicated Architecture
+
+| Year   | Venue   | Title      |  Implementation  | 
+| :----: | :-----: | :--------: |:----------------:|
+| 2015   | CVPR    | Learning from massive noisy labeled data for image classification     |      |
+| 2018   | NeurIPS    | Masking: A new perspective of noisy supervision     |      |
+| 2018   | TIP   | Deep learning from noisy image labels with quality embedding     |      |
+| 2019   | ICML    | Robust inference via generative classifiers for handling noisy labels     |      |
 
 <a name="B"></a>
 ### B. [Robust Regularization](#content)
 #### B.1. Explicit Regularization
+
+| Year   | Venue   | Title      |  Implementation  | 
+| :----: | :-----: | :--------: |:----------------:|
+| 2018   | ECCV    | Deep bilevel learning    |      |
+| 2019   | CVPR    | Learning from noisy labels by regularized estimation of annotator confusion     |      |
+| 2019   | ICML    | Using pre-training can improve model robustness and uncertainty     |      |
+| 2020   | ICLR    | Can gradient clipping mitigate label noise?     |      |
+| 2021   | ICLR    | Robust early-learning: Hindering the memorization of noisy labels     |      |
+| 2020   | ICLR    | Wasserstein adversarial regularization (WAR) on label noise    |      |
+
 #### B.2. Implicit Regularization
+
+| Year   | Venue   | Title      |  Implementation  | 
+| :----: | :-----: | :--------: |:----------------:|
+| 2014   | ICLR    | Explaining and harnessing adversarial examples     |      |
+| 2017   | ICLRW   | Regularizing neural networks by penalizing confident output distributions     |      |
+| 2018   | ICLR    | Mixup: Beyond empirical risk minimization     |      |
 
 <a name="C"></a>
 ### C. [Robust Loss Function](#content)
 
+| Year   | Venue   | Title      |  Implementation  | 
+| :----: | :-----: | :--------: |:----------------:|
+| 2017   | AAAI    | Robust loss functions under label noise for deep neural networks     |      |
+| 2018   | NeurIPS | Generalized cross entropy loss for training deep neural networks with noisy labels     |      |
+| 2017   | ICCV    | Symmetric cross entropy for robust learning with noisy labels     |      |
+| 2020   | ICLR    | Curriculum loss: Robust learning and generalization against label corruption     |      |
+| 2020   | ICML    | Normalized loss functions for deep learning with noisy labels     |      |
+| 2020   | ICML    | Peer loss functions: Learning from noisy labels without knowing noise rates |      |
+
 <a name="D"></a>
 ### D. [Loss Adjustment](#content)
 #### D.1. Loss Correction
+
+| Year   | Venue   | Title      |  Implementation  | 
+| :----: | :-----: | :--------: |:----------------:|
+| 2017   | CVPR    | Making deep neural networks robust to label noise: A loss correction approach     |      |
+| 2018   | NeurIPS    | Using trusted data to train deep networks on labels corrupted by severe noise    |      |
+| 2019   | NeurIPS    | Are anchor points really indispensable in label-noise learning?    |      |
+| 2020   | NeurIPS    | Dual T: Reducing estimation error for transition matrix in label-noise learning     |      |
+
 #### D.2. Loss Reweighting
+
+| Year   | Venue   | Title      |  Implementation  | 
+| :----: | :-----: | :--------: |:----------------:|
+| 2017   | TNNLS   | Multiclass learning with partially corrupted labels     |      |
+| 2017   | NeurIPS | Active Bias: Training more accurate neural networks by emphasizing high variance samples     |      |
+
 #### D.3. Label Refurbishment
+
+| Year   | Venue   | Title      |  Implementation  | 
+| :----: | :-----: | :--------: |:----------------:|
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+
 #### D.4. Meta Learning
+
+| Year   | Venue   | Title      |  Implementation  | 
+| :----: | :-----: | :--------: |:----------------:|
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
 
 <a name="E"></a>
 ### E. [Sample Selection](#content)
 #### E.1. Multi-network Learning
+
+| Year   | Venue   | Title      |  Implementation  | 
+| :----: | :-----: | :--------: |:----------------:|
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+
 #### E.2. Multi-round Learning
+
+| Year   | Venue   | Title      |  Implementation  | 
+| :----: | :-----: | :--------: |:----------------:|
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+
 #### E.3. Hybrid Learning
+
+| Year   | Venue   | Title      |  Implementation  | 
+| :----: | :-----: | :--------: |:----------------:|
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
+| 2015   | ICCV    |      |      |
 
 <a name="data"></a>
 ## Datasets
