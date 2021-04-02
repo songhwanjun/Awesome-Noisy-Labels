@@ -36,7 +36,7 @@ This is a brief summary for the categorization. Please see** Section III** in ou
 **[Index:** [Robust Architecture](#A), [Robust Regularization](#B), [Robust Loss Function](#C), [Loss Adjsutment](#D), [Sample Selection](#E)**]**
 ```
 Robust Learning for Noisy Labels
-|--- A. [Robust Architecture]
+|--- A. Robust Architecture
      |--- A.1. Noise Adaptation Layer: adding a noise adaptation layer at the top of an underlying DNN to learn label transition process
      |--- A.2. Dedicated Architecture: developing a dedicated architecture to reliably support more diverse types of label noises.
 |--- B. Robust Regularization
