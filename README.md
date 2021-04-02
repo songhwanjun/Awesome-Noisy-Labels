@@ -28,27 +28,27 @@ All Papers are sorted chronologically according to **five categories** below, so
 <img src="files/images/high-level-view.png " width="650">
 </p>
 
-This is a brief summary for the categorization. Please see** Section III** in our survey paper for the details - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/Survey%20on%20Noisy%20Labels.pdf) <br/>
-We also provide a **tabular form** of summarization along with their **methodological comaprison** (Table 2 in the paper). - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/images/comparison.png) 
+We also provide a **tabular form** of summarization along with their **methodological comaprison** (Table 2 in the paper). - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/images/comparison.png) <br/>
+This is a brief summary for the categorization. Please see** Section III** in our survey paper for the details - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/Survey%20on%20Noisy%20Labels.pdf) 
 
 ```
 Robust Learning for Noisy Labels
-|--- A. **Robust Architecture**
+|--- A. Robust Architecture
      |--- A.1. Noise Adaptation Layer: adding a noise adaptation layer at the top of an underlying DNN to learn label transition process
      |--- A.2. Dedicated Architecture: developing a dedicated architecture to reliably support more diverse types of label noises.
-|--- B. **Robust Regularization**
+|--- B. Robust Regularization
      |--- B.1. Explicit Regularization: an explicit form that modifies the expected tarining loss, e.g., weight decay and dropout.
      |--- B.2. Implicit Regularization: an implicit form that gives the effect of stochasticity, e.g., data augmentation and mini-batch SGD.
 |--- C. Robust Loss Function: designing a new loss function robust to label noise.
-|--- D. **Loss Adjsutment**
-     |--- D.1. Loss Correction: 
-     |--- D.2. Loss Reweighting:
-     |--- D.3. Label Refurbishment:
-     |--- D.4. Meta Learning:
-|--- E. **Sample Selection**
-     |--- E.1. Multi-network Learning:
-     |--- E.2. Multi-round Learning:
-     |--- E.3. Hybrid Leanring:
+|--- D. Loss Adjsutment
+     |--- D.1. Loss Correction: multiplying the estimated transition matrix to the prediction for all the observable labels.
+     |--- D.2. Loss Reweighting: multiplying the estimated example confidence (weight) to the example loss.
+     |--- D.3. Label Refurbishment: replacing the original label with other reliable one.
+     |--- D.4. Meta Learning: finding an optimal adjustment rule for loss reweighing or label refurbishment.
+|--- E. Sample Selection
+     |--- E.1. Multi-network Learning: collaborative learning or co-training to identify clean examples from noisy data.
+     |--- E.2. Multi-round Learning: refining the selected clean set through training multiple rounds.
+     |--- E.3. Hybrid Leanring: combining a specific sample selection strategy with a specific semi-supervised learning model or other orthogonal directions.
 ```
 - Robust Architecture
 -- (1) Noise Adaptation Layer: adding a noise adaptation layer at the top of an underlying DNN to learn label transition process
