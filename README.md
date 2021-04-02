@@ -24,10 +24,13 @@ year={2020}}
 
 All Papers are sorted chronologically according to **five categories** below, so that you can find related papers more quickly. 
 
+<p align="center">
+<img src="files/images/high-level-view.png " width="650">
+</p>
 
 This is a brief summary for the categorization. Please see to our survey paper for the details - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/Survey%20on%20Noisy%20Labels.pdf) 
 
-In our paper, we also provides a methodological comaprison for all methods in Table 2.
+We also provide a tabular form of summarization along with their methodological comaprison. - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/images/comparison.png) 
 
 ```
 Robust Learning for Noisy Labels
