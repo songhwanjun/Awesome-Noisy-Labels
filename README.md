@@ -1,5 +1,5 @@
 # Learning from Noisy Labels with Deep Neural Networks: A Survey
-> __Publication (.bib)__ </br>
+> __Citation (.bib)__ </br>
 > @article{song2020learning,
 >  title={Learning from noisy labels with deep neural networks: A survey},
 >  author={Song, Hwanjun and Kim, Minseok and Park, Dongmin and Lee, Jae-Gil},
