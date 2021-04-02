@@ -1,7 +1,7 @@
 # Learning from Noisy Labels with Deep Neural Networks: A Survey
 This is a repository to help all readers who are interested in handling noisy labels. We are planning to include all popularly used data (with data loader) and necessary implementations for evaluation. 
 
-If your papers are missing in our survey, please contact to ghkswns91@gmail.com.</br>
+If your papers are missing or you have other requests, please contact to ghkswns91@gmail.com.</br>
 We will update this repository and paper on a regular basis to maintain up-to-date. 
 > **Last update date: 2021-04-02**
 
