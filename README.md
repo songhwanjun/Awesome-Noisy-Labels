@@ -29,7 +29,7 @@ All Papers are sorted chronologically according to **five categories** below, so
 </p>
 
 We also provide a **tabular form** of summarization with their **methodological comaprison** (Table 2 in the paper). - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/images/comparison.png) <br/>
-This is a **brief summary** for the categorization. Please see **Section III** in our survey paper for the details - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/Survey%20on%20Noisy%20Labels.pdf) 
+This is a **brief summary** for the categorization. Please see **Section III** in our survey paper for the details - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/raw/main/files/Survey%20on%20Noisy%20Labels.pdf) 
 
 
 **[Index:** [Robust Architecture](#A), [Robust Regularization](#B), [Robust Loss Function](#C), [Loss Adjsutment](#D), [Sample Selection](#E)**]**
