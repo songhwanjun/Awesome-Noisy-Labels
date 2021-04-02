@@ -27,7 +27,7 @@ All Papers are sorted chronologically according to **five categories** below, so
 We also provide a **tabular form** of summarization along with their **methodological comaprison** (Table 2 in the paper). - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/images/comparison.png) <br/>
 This is a brief summary for the categorization. Please see** Section III** in our survey paper for the details - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/Survey%20on%20Noisy%20Labels.pdf) 
 
- [Robust Architecture](#Robust Architecture)
+ [Robust Architecture](#A)
 
 ```
 Robust Learning for Noisy Labels
@@ -49,6 +49,7 @@ Robust Learning for Noisy Labels
      |--- E.3. Hybrid Leanring: combining a specific sample selection strategy with a specific semi-supervised learning model or other orthogonal directions.
 ```
 
+<a name="A"></a>
 ### A. [Robust Architecture](#content)
 #### A.1. [Noise Adaptation Layer](#content)
 #### A.2. [Dedicated Architecture](#content)
