@@ -16,8 +16,9 @@ year={2020}}
 ```
 
 ## Contents
-## 1. [List of Papers with Categorization](#papers)
-## 2. [Availble Dataset](#data)
+[List of Papers with Categorization](#papers)
+
+[Availble Dataset](#data)
 
 <a name="papers"></a>
 ## List of Papers with Categorization
