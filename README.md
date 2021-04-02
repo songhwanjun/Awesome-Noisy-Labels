@@ -28,8 +28,8 @@ All Papers are sorted chronologically according to **five categories** below, so
 <img src="files/images/high-level-view.png " width="650">
 </p>
 
-This is a brief summary for the categorization. Please see to our survey paper for the details - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/Survey%20on%20Noisy%20Labels.pdf) <br/>
-We also provide a tabular form of summarization along with their methodological comaprison (Table 2 in the paper). - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/images/comparison.png) 
+This is a brief summary for the categorization. Please see** Section III** in our survey paper for the details - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/Survey%20on%20Noisy%20Labels.pdf) <br/>
+We also provide a **tabular form** of summarization along with their **methodological comaprison** (Table 2 in the paper). - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/images/comparison.png) 
 
 ```
 Robust Learning for Noisy Labels
