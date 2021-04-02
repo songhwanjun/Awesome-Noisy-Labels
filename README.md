@@ -27,7 +27,7 @@ All Papers are sorted chronologically according to **five categories** below, so
 We also provide a **tabular form** of summarization along with their **methodological comaprison** (Table 2 in the paper). - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/images/comparison.png) <br/>
 This is a brief summary for the categorization. Please see** Section III** in our survey paper for the details - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/Survey%20on%20Noisy%20Labels.pdf) 
 
- [Robust Architecture](#A)
+ [Robust Architecture](#Robust Architecture)
 
 ```
 Robust Learning for Noisy Labels
@@ -49,26 +49,26 @@ Robust Learning for Noisy Labels
      |--- E.3. Hybrid Leanring: combining a specific sample selection strategy with a specific semi-supervised learning model or other orthogonal directions.
 ```
 
-### A. [Robust Architecture](#A)
-#### A.1. [Noise Adaptation Layer](#A1)
-#### A.2. [Dedicated Architecture](#A2)
+### A. [Robust Architecture](#content)
+#### A.1. [Noise Adaptation Layer](#content)
+#### A.2. [Dedicated Architecture](#content)
 
-### B. [Robust Regularization](#B)
-#### B.1. [Explicit Regularization](#B1)
-#### B.2. [Implicit Regularization](#B2)
+### B. [Robust Regularization](#content)
+#### B.1. [Explicit Regularization](#content)
+#### B.2. [Implicit Regularization](#content)
 
-### C. [Robust Loss Function](#C)
+### C. [Robust Loss Function](#content)
 
-### D. [Loss Adjustment](#D)
-#### D.1. [Loss Correction](#D1)
-#### D.2. [Loss Reweighting](#D2)
-#### D.3. [Label Refurbishment](#D3)
-#### D.4. [Meta Learning](#D4)
+### D. [Loss Adjustment](#content)
+#### D.1. [Loss Correction](#content)
+#### D.2. [Loss Reweighting](#content)
+#### D.3. [Label Refurbishment](#content)
+#### D.4. [Meta Learning](#content)
 
-### E. [Sample Selection](#E)
-#### E.1. [Multi-network Learning](#E1)
-#### E.2. [Multi-round Learning](#E2)
-#### E.3. [Hybrid Learning](#E3)
+### E. [Sample Selection](#content)
+#### E.1. [Multi-network Learning](#content)
+#### E.2. [Multi-round Learning](#content)
+#### E.3. [Hybrid Learning](#content)
 
 
 ## List to Do
