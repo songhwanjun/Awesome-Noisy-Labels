@@ -23,6 +23,6 @@ year={2020}}
 ## List of Papers with Categorization
 Papers are sorted chronologically according to five categories so that you can find related papers more quickly. 
 
-Please refer to our eyes for the classification criteria for this category! [here](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/Survey%20on%20Noisy%20Labels.pdf)
+Please refer to our survey paper for the criteria of categorization. - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/Survey%20on%20Noisy%20Labels.pdf)
 
 ### List of Papers with Categorization
