@@ -61,19 +61,19 @@ Robust Learning for Noisy Labels
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
 | 2015   | ICCV    | [Webly supervised learning of convolutional networks](https://openaccess.thecvf.com/content_iccv_2015/papers/Chen_Webly_Supervised_Learning_ICCV_2015_paper.pdf) | [Official (Caffe)](https://github.com/endernewton/webly-supervised) |
-| 2015   | ICLRW   | Training convolutional networks with noisy labels | Unofficial (Keras) |
-| 2016   | ICDM    | Learning deep networks from noisy labels with dropout regularization | Unofficial (Keras) |
-| 2017   | ICLR    | Training deep neural-networks using a noise adaptation layer | Unofficial (Keras) |
-| 2016   | ICASSP  | Training deep neural-networks based on unreliable labels | Unofficial (Keras) |
+| 2015   | ICLRW   | Training convolutional networks with noisy labels | [Unofficial (Keras)](https://github.com/delchiaro/training-cnn-noisy-labels-keras) |
+| 2016   | ICDM    | Learning deep networks from noisy labels with dropout regularization | [Official (MATLAB)](https://github.com/ijindal/Noisy_Dropout_regularization) |
+| 2017   | ICLR    | Training deep neural-networks using a noise adaptation layer | [Official (Keras)](https://github.com/udibr/noisy_labels) |
+| 2016   | ICASSP  | Training deep neural-networks based on unreliable labels | [Unofficial (Chainer)](https://github.com/Ryo-Ito/Noisy-Labels-Neural-Network) |
 
 #### A.2. Dedicated Architecture
 
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
-| 2015   | CVPR    | Learning from massive noisy labeled data for image classification     |      |
-| 2018   | NeurIPS    | Masking: A new perspective of noisy supervision     |      |
-| 2018   | TIP   | Deep learning from noisy image labels with quality embedding     |      |
-| 2019   | ICML    | Robust inference via generative classifiers for handling noisy labels     |      |
+| 2015   | CVPR    | Learning from massive noisy labeled data for image classification     |  [Official (Caffe)](https://github.com/Cysu/noisy_label)    |
+| 2018   | NeurIPS    | Masking: A new perspective of noisy supervision     | [Official (TensorFlow)](https://github.com/bhanML/Masking)     |
+| 2018   | TIP   | Deep learning from noisy image labels with quality embedding     |  N/A    |
+| 2019   | ICML    | Robust inference via generative classifiers for handling noisy labels     |  [Official (PyTorch)](https://github.com/pokaxpoka/RoGNoisyLabel)    |
 
 <a name="B"></a>
 ### B. [Robust Regularization](#content)
@@ -81,32 +81,32 @@ Robust Learning for Noisy Labels
 
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
-| 2018   | ECCV    | Deep bilevel learning    |      |
-| 2019   | CVPR    | Learning from noisy labels by regularized estimation of annotator confusion     |      |
-| 2019   | ICML    | Using pre-training can improve model robustness and uncertainty     |      |
-| 2020   | ICLR    | Can gradient clipping mitigate label noise?     |      |
-| 2021   | ICLR    | Robust early-learning: Hindering the memorization of noisy labels     |      |
-| 2020   | ICLR    | Wasserstein adversarial regularization (WAR) on label noise    |      |
+| 2018   | ECCV    | Deep bilevel learning    | [Official (TensorFlow)](https://github.com/sjenni/DeepBilevel)     |
+| 2019   | CVPR    | Learning from noisy labels by regularized estimation of annotator confusion     |  [Official (TensorFlow)](https://rt416.github.io/pdf/trace_codes.pdf)    |
+| 2019   | ICML    | Using pre-training can improve model robustness and uncertainty     |  [Official (PyTorch)](github.com/hendrycks/pre-training)    |
+| 2020   | ICLR    | Can gradient clipping mitigate label noise?     |   [Unofficial (PyTorch)](https://github.com/dmizr/phuber)   |
+| 2021   | ICLR    | Robust early-learning: Hindering the memorization of noisy labels     |  [Official (PyTorch)](https://github.com/xiaoboxia/CDR)    |
+| 2020   | ICLR    | Wasserstein adversarial regularization (WAR) on label noise    |  N/A    |
 
 #### B.2. Implicit Regularization
 
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
-| 2014   | ICLR    | Explaining and harnessing adversarial examples     |      |
-| 2017   | ICLRW   | Regularizing neural networks by penalizing confident output distributions     |      |
-| 2018   | ICLR    | Mixup: Beyond empirical risk minimization     |      |
+| 2014   | ICLR    | Explaining and harnessing adversarial examples     | [Unofficial (PyTorch)](https://https://github.com/sarathknv/adversarial-examples-pytorch)    |
+| 2017   | ICLRW   | Regularizing neural networks by penalizing confident output distributions     |  [Unofficial (PyTorch)](https://github.com/CoinCheung/pytorch-loss)    |
+| 2018   | ICLR    | Mixup: Beyond empirical risk minimization     |  [Official (PyTorch)](https://github.com/facebookresearch/mixup-cifar10)   |
 
 <a name="C"></a>
 ### C. [Robust Loss Function](#content)
 
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
-| 2017   | AAAI    | Robust loss functions under label noise for deep neural networks     |      |
-| 2018   | NeurIPS | Generalized cross entropy loss for training deep neural networks with noisy labels     |      |
-| 2017   | ICCV    | Symmetric cross entropy for robust learning with noisy labels     |      |
-| 2020   | ICLR    | Curriculum loss: Robust learning and generalization against label corruption     |      |
-| 2020   | ICML    | Normalized loss functions for deep learning with noisy labels     |      |
-| 2020   | ICML    | Peer loss functions: Learning from noisy labels without knowing noise rates |      |
+| 2017   | AAAI    | Robust loss functions under label noise for deep neural networks     |   N/A   |
+| 2018   | NeurIPS | Generalized cross entropy loss for training deep neural networks with noisy labels     |  [Unofficial (PyTorch)](https://github.com/AlanChou/Truncated-Loss)    |
+| 2017   | ICCV    | Symmetric cross entropy for robust learning with noisy labels     |  [Official (Keras)]({https://github.com/YisenWang/symmetric\_cross\_entropy\_for\_noisy_label)    |
+| 2020   | ICLR    | Curriculum loss: Robust learning and generalization against label corruption     |  N/A   |
+| 2020   | ICML    | Normalized loss functions for deep learning with noisy labels     |  [Official (PyTorch)](https://github.com/HanxunH/Active-Passive-Losses)    |
+| 2020   | ICML    | Peer loss functions: Learning from noisy labels without knowing noise rates |  [Official (PyTorch)](https://github.com/gohsyi/PeerLoss)    |
 
 <a name="D"></a>
 ### D. [Loss Adjustment](#content)
@@ -114,40 +114,39 @@ Robust Learning for Noisy Labels
 
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
-| 2017   | CVPR    | Making deep neural networks robust to label noise: A loss correction approach     |      |
-| 2018   | NeurIPS    | Using trusted data to train deep networks on labels corrupted by severe noise    |      |
-| 2019   | NeurIPS    | Are anchor points really indispensable in label-noise learning?    |      |
-| 2020   | NeurIPS    | Dual T: Reducing estimation error for transition matrix in label-noise learning     |      |
+| 2017   | CVPR    | Making deep neural networks robust to label noise: A loss correction approach     |   [Official (Keras)](https://github.com/giorgiop/loss-correction)   |
+| 2018   | NeurIPS    | Using trusted data to train deep networks on labels corrupted by severe noise    |  [Official (PyTorch)](https://github.com/mmazeika/glc)    |
+| 2019   | NeurIPS    | Are anchor points really indispensable in label-noise learning?    |  [Official (PyTorch)](https://github.com/xiaoboxia/T-Revision)   |
+| 2020   | NeurIPS    | Dual T: Reducing estimation error for transition matrix in label-noise learning     |  N/A    |
 
 #### D.2. Loss Reweighting
 
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
-| 2017   | TNNLS   | Multiclass learning with partially corrupted labels     |      |
-| 2017   | NeurIPS | Active Bias: Training more accurate neural networks by emphasizing high variance samples     |      |
+| 2017   | TNNLS   | Multiclass learning with partially corrupted labels     |  [Unofficial (PyTorch)](https://github.com/xiaoboxia/Classification-with-noisy-labels-by-importance-reweighting)   |
+| 2017   | NeurIPS | Active Bias: Training more accurate neural networks by emphasizing high variance samples     |  [Unofficial (TensorFlow)](https://github.com/songhwanjun/ActiveBias)    |
 
 #### D.3. Label Refurbishment
 
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
+| 2015   | ICLR    | Training deep neural networks on noisy labels with bootstrapping     |  [Unofficial (Keras)](https://github.com/dr-darryl-wright/Noisy-Labels-with-Bootstrapping)    |
+| 2019   | ICML    | Unsupervised label noise modeling and loss correction     |   [Official (PyTorch)](https://github.com/PaulAlbert31/LabelNoiseCorrection)   |
+| 2020   | NeurIPS | Self-adaptive training: beyond empirical risk minimization     |  [Official (PyTorch)](https://github.com/LayneH/self-adaptive-training)    |
+| 2018   | ICML    | Dimensionality-driven learning with noisy labels    |  [Official (Keras)](https://github.com/xingjunm/dimensionality-driven-learning)    |
+| 2020   | ICML    | Error-bounded correction of noisy labels     |  [Official (PyTorch)]({https://github.com/pingqingsheng/LRT)    |
+| 2021   | AAAI    | Beyond class-conditional assumption: A primary attempt to combat instancedependent label noise     | [Official (PyTorch)](https://github.com/chenpf1025/IDN)     |
 
 #### D.4. Meta Learning
 
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
+| 2017   | NeurIPSW    | Learning to learn from weak supervision by full supervision     |  [Unofficial (TensorFlow)](https://github.com/krayush07/learn-by-weak-supervision)   |
+| 2018   | ICML    | Learning to reweight examples for robust deep learning   | [Official (TensorFlow)](https://github.com/uber-research/learning-to-reweight-examples)     |
+| 2019   | NeurIPS    | MetaWeight-Net: Learning an explicit mapping for sample weighting     | [Official (PyTorch)](https://github.com/xjtushujun/meta-weight-net)     |
+| 2020   | CVPR    | Distilling effective supervision from severe label noise     |  [Official (TensorFlow)](https://github.com/google-research/google-research/tree/master/ieg)    |
+| 2017   | ICCV    | Learning from noisy labels with distillation     |  N/A   |
+| 2020   | AAAI    | Meta label correction for noisy label learning     |  [Official (PyTorch)](https://aka.ms/MLC)    |
 
 <a name="E"></a>
 ### E. [Sample Selection](#content)
@@ -155,30 +154,31 @@ Robust Learning for Noisy Labels
 
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
+| 2017   | NeurIPS    | Decoupling when to update from how to update    |  [Official (TensorFlow)](https://github.com/emalach/UpdateByDisagreemen)    |
+| 2018   | ICML    |  MentorNet: Learning data-driven curriculum for very deep neural networks on corrupted labels    |  [Official (TensorFlow)](https://github.com/google/mentornet)    |
+| 2018   | NeurIPS    |  Co-teaching: Robust training of deep neural networks with extremely noisy labels    |  [Official (PyTorch)](https://github.com/bhanML/Co-teaching)    |
+| 2019   | ICML    | How does disagreement help generalization against label corruption?    |  [Official (PyTorch)](https://github.com/bhanML/coteaching_plus)   |
 
 #### E.2. Multi-round Learning
 
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
+| 2019   | ICML    | Learning with bad training data via iterative trimmed loss minimization     | [Official (GluonCV)](https://github.com/yanyao-shen/ITLM-simplecode)     |
+| 2019   | ICML    | Understanding and utilizing deep neural networks trained with noisy labels     |  [Official (Keras)](https://github.com/chenpf1025/noisy_label_understanding_utilizing)    |
+| 2019   | ICCV    | O2U-Net: A simple noisy label detection approach for deep neural networks     |  [Unofficial (PyTorch)](https://github.com/hjimce/O2U-Net)   |
+| 2018   | CVPR    | Iterative learning with open-set noisy labels     |  [Official (Keras)](https://github.com/YisenWang/Iterative_learning)    |
+| 2020   | ICMLW    | How does early stopping can help generalization against label noise?     |  [Official (Tensorflow)]()(https://www.dropbox.com/sh/49py7tggwprpdup/AADFFsAGfn3EbtueYM0dI9Fea?dl=0)     |
+| 2020   | NeurIPS  | A topological filter for learning with label noise     |  [Official (PyTorch)](https://github.com/pxiangwu/TopoFilter)    |
+
 
 #### E.3. Hybrid Learning
 
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
-| 2015   | ICCV    |      |      |
+| 2019   | ICML    | SELFIE: Refurbishing unclean samples for robust deep learning     |   [Official (TensorFlow)](https://github.com/kaist-dmlab/SELFIE)   |
+| 2020   | ICLR    | SELF: Learning to filter noisy labels with self-ensembling     |   N/A   |
+| 2020   | ICLR    | DivideMix: Learning with noisy labels as semi-supervised learning     |  [Official (PyTorch)](https://github.com/LiJunnan1992/DivideMix)    |
+| 2021   | ICLR    | Robust curriculum learning: from clean label detection to noisy label self-correction     |  N/A    |
 
 <a name="data"></a>
 ## Datasets
