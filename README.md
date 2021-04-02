@@ -69,24 +69,24 @@ Robust Learning for Noisy Labels
 
 <a name="B"></a>
 ### B. [Robust Regularization](#content)
-#### B.1. [Explicit Regularization](#content)
-#### B.2. [Implicit Regularization](#content)
+#### B.1. Explicit Regularization
+#### B.2. Implicit Regularization
 
 <a name="C"></a>
 ### C. [Robust Loss Function](#content)
 
 <a name="D"></a>
 ### D. [Loss Adjustment](#content)
-#### D.1. [Loss Correction](#content)
-#### D.2. [Loss Reweighting](#content)
-#### D.3. [Label Refurbishment](#content)
-#### D.4. [Meta Learning](#content)
+#### D.1. Loss Correction
+#### D.2. Loss Reweighting
+#### D.3. Label Refurbishment
+#### D.4. Meta Learning
 
 <a name="E"></a>
 ### E. [Sample Selection](#content)
-#### E.1. [Multi-network Learning](#content)
-#### E.2. [Multi-round Learning](#content)
-#### E.3. [Hybrid Learning](#content)
+#### E.1. Multi-network Learning
+#### E.2. Multi-round Learning
+#### E.3. Hybrid Learning
 
 <a name="data"></a>
 ## Datasets
