@@ -55,8 +55,16 @@ Robust Learning for Noisy Labels
 ```
 
 <a name="A"></a>
+
+
 ### A. [Robust Architecture](#content)
 #### A.1. [Noise Adaptation Layer](#content)
+
+| Year   | Venue   | Title      |  Implementation  | 
+| :----: | :-----: | :--------: |:----------------:|
+| 2015   | ICCV    | [Webly supervised learning of convolutional networks](https://openaccess.thecvf.com/content_iccv_2015/papers/Chen_Webly_Supervised_Learning_ICCV_2015_paper.pdf) | [Official (Caffe)](https://github.com/endernewton/webly-supervised) |
+
+
 #### A.2. [Dedicated Architecture](#content)
 
 <a name="B"></a>
