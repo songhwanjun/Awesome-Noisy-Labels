@@ -27,11 +27,11 @@ All Papers are sorted chronologically according to **five categories** below, so
 We also provide a **tabular form** of summarization along with their **methodological comaprison** (Table 2 in the paper). - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/images/comparison.png) <br/>
 This is a brief summary for the categorization. Please see** Section III** in our survey paper for the details - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/Survey%20on%20Noisy%20Labels.pdf) 
 
- [Robust Architecture](#A)
+
 
 ```
 Robust Learning for Noisy Labels
-|--- A. Robust Architecture
+|--- A. [Robust Architecture](#A)
      |--- A.1. Noise Adaptation Layer: adding a noise adaptation layer at the top of an underlying DNN to learn label transition process
      |--- A.2. Dedicated Architecture: developing a dedicated architecture to reliably support more diverse types of label noises.
 |--- B. Robust Regularization
@@ -51,24 +51,39 @@ Robust Learning for Noisy Labels
 
 <a name="A"></a>
 ### A. [Robust Architecture](#content)
+<a name="A1"></a>
 #### A.1. [Noise Adaptation Layer](#content)
+<a name="A2"></a>
 #### A.2. [Dedicated Architecture](#content)
 
+<a name="B"></a>
 ### B. [Robust Regularization](#content)
+<a name="B1"></a>
 #### B.1. [Explicit Regularization](#content)
+<a name="B2"></a>
 #### B.2. [Implicit Regularization](#content)
 
+<a name="C"></a>
 ### C. [Robust Loss Function](#content)
 
+<a name="D"></a>
 ### D. [Loss Adjustment](#content)
+<a name="D1"></a>
 #### D.1. [Loss Correction](#content)
+<a name="D2"></a>
 #### D.2. [Loss Reweighting](#content)
+<a name="D3"></a>
 #### D.3. [Label Refurbishment](#content)
+<a name="D4"></a>
 #### D.4. [Meta Learning](#content)
 
+<a name="E"></a>
 ### E. [Sample Selection](#content)
+<a name="E1"></a>
 #### E.1. [Multi-network Learning](#content)
+<a name="E2"></a>
 #### E.2. [Multi-round Learning](#content)
+<a name="E3"></a>
 #### E.3. [Hybrid Learning](#content)
 
 
