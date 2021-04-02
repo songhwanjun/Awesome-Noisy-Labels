@@ -27,6 +27,8 @@ All Papers are sorted chronologically according to **five categories** below, so
 We also provide a **tabular form** of summarization along with their **methodological comaprison** (Table 2 in the paper). - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/images/comparison.png) <br/>
 This is a brief summary for the categorization. Please see** Section III** in our survey paper for the details - [[here]](https://github.com/songhwanjun/Awesome-Noisy-Labels/blob/main/files/Survey%20on%20Noisy%20Labels.pdf) 
 
+ [Robust Architecture](#A)
+
 ```
 Robust Learning for Noisy Labels
 |--- A. Robust Architecture
@@ -47,26 +49,26 @@ Robust Learning for Noisy Labels
      |--- E.3. Hybrid Leanring: combining a specific sample selection strategy with a specific semi-supervised learning model or other orthogonal directions.
 ```
 
-### A. Robust Architecture
-#### A.1. Noise Adaptation Layer
-#### A.2. Dedicated Architecture
+### A. [Robust Architecture](#A)
+#### A.1. [Noise Adaptation Layer](#A1)
+#### A.2. [Dedicated Architecture](#A2)
 
-### B. Robust Regularization
-#### B.1. Explicit Regularization
-#### B.2. Implicit Regularization
+### B. [Robust Regularization](#B)
+#### B.1. [Explicit Regularization](#B1)
+#### B.2. [Implicit Regularization](#B2)
 
-### C. Robust Loss Function
+### C. [Robust Loss Function](#C)
 
-### D. Loss Adjustment
-#### D.1. Loss Correction
-#### D.2. Loss Reweighting
-#### D.3. Label Refurbishment
-#### D.4. Meta Learning
+### D. [Loss Adjustment](#D)
+#### D.1. [Loss Correction](#D1)
+#### D.2. [Loss Reweighting](#D2)
+#### D.3. [Label Refurbishment](#D3)
+#### D.4. [Meta Learning](#D4)
 
-### E. Sample Selection
-#### E.1. Multi-network Learning
-#### E.2. Multi-round Learning
-#### E.3. Hybrid Learning
+### E. [Sample Selection](#E)
+#### E.1. [Multi-network Learning](#E1)
+#### E.2. [Multi-round Learning](#E2)
+#### E.3. [Hybrid Learning](#E3)
 
 
 ## List to Do
