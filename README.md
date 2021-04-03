@@ -53,9 +53,8 @@ Robust Learning for Noisy Labels
      |--- E.3. Hybrid Leanring: combining a specific sample selection strategy with a specific semi-supervised learning model or other orthogonal directions.
 ```
 
----
 <a name="A"></a>
-### A. [Robust Architecture](#content)
+## A. [Robust Architecture](#content)
 #### A.1. Noise Adaptation Layer
 
 | Year   | Venue   | Title      |  Implementation  | 
@@ -75,9 +74,8 @@ Robust Learning for Noisy Labels
 | 2018   | TIP   | [Deep learning from noisy image labels with quality embedding](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8506425)     |  N/A    |
 | 2019   | ICML    | [Robust inference via generative classifiers for handling noisy labels](http://proceedings.mlr.press/v97/lee19f.html)    |  [Official (PyTorch)](https://github.com/pokaxpoka/RoGNoisyLabel)    |
 
----
 <a name="B"></a>
-### B. [Robust Regularization](#content)
+## B. [Robust Regularization](#content)
 #### B.1. Explicit Regularization
 
 | Year   | Venue   | Title      |  Implementation  | 
@@ -97,9 +95,8 @@ Robust Learning for Noisy Labels
 | 2017   | ICLRW   | [Regularizing neural networks by penalizing confident output distributions](https://openreview.net/forum?id=HyhbYrGYe)    |  [Unofficial (PyTorch)](https://github.com/CoinCheung/pytorch-loss)    |
 | 2018   | ICLR    | [Mixup: Beyond empirical risk minimization](https://openreview.net/forum?id=r1Ddp1-Rb)     |  [Official (PyTorch)](https://github.com/facebookresearch/mixup-cifar10)   |
 
----
 <a name="C"></a>
-### C. [Robust Loss Function](#content)
+## C. [Robust Loss Function](#content)
 
 | Year   | Venue   | Title      |  Implementation  | 
 | :----: | :-----: | :--------: |:----------------:|
@@ -110,9 +107,8 @@ Robust Learning for Noisy Labels
 | 2020   | ICML    | [Normalized loss functions for deep learning with noisy labels](http://proceedings.mlr.press/v119/ma20c.html)     |  [Official (PyTorch)](https://github.com/HanxunH/Active-Passive-Losses)    |
 | 2020   | ICML    | [Peer loss functions: Learning from noisy labels without knowing noise rates](http://proceedings.mlr.press/v119/liu20e/liu20e.pdf) |  [Official (PyTorch)](https://github.com/gohsyi/PeerLoss)    |
 
----
 <a name="D"></a>
-### D. [Loss Adjustment](#content)
+## D. [Loss Adjustment](#content)
 #### D.1. Loss Correction
 
 | Year   | Venue   | Title      |  Implementation  | 
@@ -151,9 +147,8 @@ Robust Learning for Noisy Labels
 | 2020   | CVPR    | [Distilling effective supervision from severe label noise](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.pdf)     |  [Official (TensorFlow)](https://github.com/google-research/google-research/tree/master/ieg)    |
 | 2021   | AAAI    | [Meta label correction for noisy label learning](https://www.aaai.org/AAAI21Papers/AAAI-10188.ZhengG.pdf)     |  [Official (PyTorch)](https://aka.ms/MLC)    |
 
----
 <a name="E"></a>
-### E. [Sample Selection](#content)
+## E. [Sample Selection](#content)
 #### E.1. Multi-network Learning
 
 | Year   | Venue   | Title      |  Implementation  | 
