@@ -181,4 +181,14 @@ Robust Learning for Noisy Labels
 
 <a name="data"></a>
 # Datasets
-TBD
+
+## Synthetic Data
+Three synthetic benchmark datasets are popularly used for comparison.
+
+| Name (clean or noisy)    | # Training Images | # Testing Images  | # Classes |  Resolution |  Link (Tensorflow / Torch )   |
+| :------------: | :---------------: | :---------------: |:---------:|:----------:|:-------:|
+| CIFAR-10 (clean)       | 50,000            | 10,000            | 10        |    32x32   | [link](https://drive.google.com/a/dm.kaist.ac.kr/file/d/1ipishY18dUv7aopE36gicbNYhk9E9nHx/view?usp=sharing) / [] |
+| CIFAR-100 (clean)     | 50,000            | 10,000            | 100       |    32x32   | [link](https://drive.google.com/a/dm.kaist.ac.kr/file/d/1vhYTpKzD4Y64SkcQgoMfHOg03ZgavwRw/view?usp=sharing) / [] |
+| Tiny-ImageNet (clean) | 100,000           | 10,000            | 200       |    64x64   | [link](https://drive.google.com/a/dm.kaist.ac.kr/file/d/1tR-fW1htexV-H9kMmpIQfF-KNZJFB7ZB/view?usp=sharing) / [] |
+
+## Realworld Data
