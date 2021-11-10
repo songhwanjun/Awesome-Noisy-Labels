@@ -1,5 +1,5 @@
 # Learning from Noisy Labels with Deep Neural Networks: A Survey
-This is a repository to help all readers who are interested in handling noisy labels. We are planning to include all popularly used data (with data loader) and necessary implementations for evaluation. 
+This is a repository to help all readers who are interested in handling noisy labels.
 
 If your papers are missing or you have other requests, please contact to ghkswns91@gmail.com.</br>
 We will update this repository and paper on a regular basis to maintain up-to-date. 
@@ -16,8 +16,6 @@ year={2020}}
 
 ## Contents
 - [List of Papers with Categorization](#papers)
-
-- [Availble Dataset](#data)
 
 <a name="papers"></a>
 ## List of Papers with Categorization
@@ -179,16 +177,3 @@ Robust Learning for Noisy Labels
 | 2020   | ICLR    | [DivideMix: Learning with noisy labels as semi-supervised learning](https://openreview.net/pdf?id=HJgExaVtwr)     |  [Official (PyTorch)](https://github.com/LiJunnan1992/DivideMix)    |
 | 2021   | ICLR    | [Robust curriculum learning: from clean label detection to noisy label self-correction](https://openreview.net/pdf?id=lmTWnm3coJJ)     |  N/A    |
 
-<a name="data"></a>
-# Datasets
-
-## Synthetic Data
-Three synthetic benchmark datasets are popularly used for comparison.
-
-| Name (clean or noisy)    | # Training Images | # Testing Images  | # Classes |  Resolution |  Link (Tensorflow / Torch )   |
-| :------------: | :---------------: | :---------------: |:---------:|:----------:|:-------:|
-| CIFAR-10 (clean)       | 50,000            | 10,000            | 10        |    32x32   | [link](https://drive.google.com/a/dm.kaist.ac.kr/file/d/1ipishY18dUv7aopE36gicbNYhk9E9nHx/view?usp=sharing) / [] |
-| CIFAR-100 (clean)     | 50,000            | 10,000            | 100       |    32x32   | [link](https://drive.google.com/a/dm.kaist.ac.kr/file/d/1vhYTpKzD4Y64SkcQgoMfHOg03ZgavwRw/view?usp=sharing) / [] |
-| Tiny-ImageNet (clean) | 100,000           | 10,000            | 200       |    64x64   | [link](https://drive.google.com/a/dm.kaist.ac.kr/file/d/1tR-fW1htexV-H9kMmpIQfF-KNZJFB7ZB/view?usp=sharing) / [] |
-
-## Realworld Data
