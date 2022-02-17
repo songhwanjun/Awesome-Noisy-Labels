@@ -53,6 +53,9 @@ Robust Learning for Noisy Labels
      |--- E.3. Hybrid Leanring: combining a specific sample selection strategy with a specific semi-supervised learning model or other orthogonal directions.
 ```
 
+In addition, there are some valuable theoretical or empirical papers for understanding the nature of noisy labels.<br>
+Go to [Sample Selection](#F). 
+
 <a name="A"></a>
 ## A. [Robust Architecture](#content)
 #### A.1. Noise Adaptation Layer
@@ -195,4 +198,11 @@ Robust Learning for Noisy Labels
 | 2020   | ICLR    | [DivideMix: Learning with noisy labels as semi-supervised learning](https://openreview.net/pdf?id=HJgExaVtwr)     |  [Official (PyTorch)](https://github.com/LiJunnan1992/DivideMix)    |
 | 2021   | ICLR    | [Robust curriculum learning: from clean label detection to noisy label self-correction](https://openreview.net/pdf?id=lmTWnm3coJJ)     |  N/A    |
 | 2021   | NeurIPS | [Understanding and Improving Early Stopping for Learning with Noisy Labels](https://papers.nips.cc/paper/2021/hash/cc7e2b878868cbae992d1fb743995d8f-Abstract.html) | [Official (PyTorch)](https://github.com/tmllab/PES) |
+
+<a name="F"></a>
+## [Theoretical or Empirical Understanding](#content)
+How Does a Neural Network’s Architecture Impact Its Robustness to Noisy Labels, NeurIPS 2021
+Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise, AAAI 2021
+Understanding Instance-Level Label Noise: Disparate Impacts and Treatments, ICML 2021
+Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations, ICLR 2022
 
