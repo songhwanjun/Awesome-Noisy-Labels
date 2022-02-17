@@ -54,7 +54,7 @@ Robust Learning for Noisy Labels
 ```
 
 In addition, there are some valuable theoretical or empirical papers for understanding the nature of noisy labels.<br>
-Go to [Sample Selection](#F). 
+Go to [Theoretical or Empirical Understanding](#F). 
 
 <a name="A"></a>
 ## A. [Robust Architecture](#content)
