@@ -201,8 +201,8 @@ Go to [Theoretical or Empirical Understanding](#F).
 
 <a name="F"></a>
 ### [Theoretical or Empirical Understanding](#content)
-How Does a Neural Network’s Architecture Impact Its Robustness to Noisy Labels, NeurIPS 2021 <br>
-Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise, AAAI 2021 <br>
-Understanding Instance-Level Label Noise: Disparate Impacts and Treatments, ICML 2021 <br>
-Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations, ICLR 2022 <br>
+How Does a Neural Network’s Architecture Impact Its Robustness to Noisy Labels, NeurIPS 2021 [[Link](https://openreview.net/forum?id=TBWA6PLJZQm)]<br>
+Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise, AAAI 2021 [[Link](https://arxiv.org/abs/2012.05458)] <br>
+Understanding Instance-Level Label Noise: Disparate Impacts and Treatments, ICML 2021 [[Link](https://arxiv.org/abs/2102.05336)] <br>
+Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations, ICLR 2022 [[Link](https://arxiv.org/abs/2110.12088)] <br>
 
