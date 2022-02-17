@@ -7,11 +7,11 @@ We will update this repository and paper on a regular basis to maintain up-to-da
 
 ## __Citation (.bib)__ </br>
 ```
-@article{song2020learning,
-title={Learning from noisy labels with deep neural networks: A survey},
-author={Song, Hwanjun and Kim, Minseok and Park, Dongmin and Shin, Yooju and Lee, Jae-Gil},
-journal={arXiv preprint arXiv:2007.08199},
-year={2020}}
+@article{song2022survey,
+  title={Learning from Noisy Labels with Deep Neural Networks: A Survey},
+  author={Song, Hwanjun and Kim, Minseok and Park, Dongmin and Shin, Yooju and Jae-Gil Lee},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022}}
 ```
 
 ## Contents
