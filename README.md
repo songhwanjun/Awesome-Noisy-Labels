@@ -3,7 +3,9 @@ This is a repository to help all readers who are interested in handling noisy la
 
 If your papers are missing or you have other requests, please contact to ghkswns91@gmail.com.</br>
 We will update this repository and paper on a regular basis to maintain up-to-date. 
-> **Last update date: 2021-04-02**
+
+* **`Feb 16, 2022`:** **Our survey paper was accepted to TNNLS journal (IF=10.451)**
+* **`Feb 17, 2021`: Last update**
 
 ## __Citation (.bib)__ </br>
 ```
