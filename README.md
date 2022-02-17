@@ -200,7 +200,7 @@ Go to [Theoretical or Empirical Understanding](#F).
 | 2021   | NeurIPS | [Understanding and Improving Early Stopping for Learning with Noisy Labels](https://papers.nips.cc/paper/2021/hash/cc7e2b878868cbae992d1fb743995d8f-Abstract.html) | [Official (PyTorch)](https://github.com/tmllab/PES) |
 
 <a name="F"></a>
-## [Theoretical or Empirical Understanding](#content)
+### [Theoretical or Empirical Understanding](#content)
 How Does a Neural Network’s Architecture Impact Its Robustness to Noisy Labels, NeurIPS 2021
 Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise, AAAI 2021
 Understanding Instance-Level Label Noise: Disparate Impacts and Treatments, ICML 2021
