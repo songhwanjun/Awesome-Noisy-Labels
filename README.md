@@ -5,7 +5,7 @@ If your papers are missing or you have other requests, please contact to ghkswns
 We will update this repository and paper on a regular basis to maintain up-to-date. 
 
 * **`Feb 16, 2022`:** **Our survey paper was accepted to TNNLS journal (IF=10.451)**
-* **`Feb 17, 2021`: Last update**
+* **`Feb 17, 2021`: Last update: including papers published in 2021 and 2022**
 
 ## __Citation (.bib)__ </br>
 ```
