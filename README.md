@@ -206,3 +206,10 @@ Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Depend
 Understanding Instance-Level Label Noise: Disparate Impacts and Treatments, ICML 2021 [[Link](https://arxiv.org/abs/2102.05336)] <br>
 Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations, ICLR 2022 [[Link](https://arxiv.org/abs/2110.12088)] <br>
 
+## Learning from Noisy Labels towards Realistic Scenarios
+There have been some studies to solve more realistic setups associated with noisy labels.
+- [Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries](https://openaccess.thecvf.com/content/CVPR2022/papers/Bang_Online_Continual_Learning_on_a_Contaminated_Data_Stream_With_Blurry_CVPR_2022_paper.pdf), CVPR, [[code](https://github.com/clovaai/puridiver)]
+This paper addresses the problem of noisy labels in the online continual learning setup.
+- [Learning from Multiple Annotator Noisy Labels via Sample-wise Label Fusion](https://arxiv.org/abs/2207.11327), EECV 2022, [[code](https://github.com/zhengqigao/Learning-from-Multiple-Annotator-Noisy-Labels)]</br>
+This paper addresses the scenario in which each data instance has multiple noisy labels from annotators (instead of a single label).
+
